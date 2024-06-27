@@ -71,7 +71,7 @@ nav a{
     padding-right: 10px;
 }
 footer p{
-    font-size: 18px;
+    font-size: 12px;
     text-align: center;
     color: rgba(255, 255, 255, 0.833);
     
@@ -85,3 +85,14 @@ footer p{
     padding-bottom: 50px;
     text-align: center;
 }
+button:hover{
+    cursor: pointer;
+}
+button{
+    background-color:#615f39;
+    color:white;
+    height:50px;
+    width:200px;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
